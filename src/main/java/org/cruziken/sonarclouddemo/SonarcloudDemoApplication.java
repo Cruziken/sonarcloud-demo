@@ -8,6 +8,6 @@ public class SonarcloudDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SonarcloudDemoApplication.class, args);
-		System.out.print("We here");
+		System.out.print("We here now right");
 	}
 }
